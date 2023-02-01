@@ -5,5 +5,6 @@ public class Class1
 	public Class1()
 	{
 		// Изменение 1
+		// Изменение 2
 	}
 }
